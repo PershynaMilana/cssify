@@ -1,0 +1,20 @@
+{
+  "name": "css_generator_bot",
+  "version": "1.0.0",
+  "description": "telegram bot for css styles generation",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "nodejs"
+  ],
+  "author": "Milana Pershyna",
+  "license": "ISC",
+  "dependencies": {
+    "natural": "^6.10.5",
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
